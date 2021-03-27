@@ -1,0 +1,4 @@
+*.json
+__pycache__
+secrets.py
+proj2_nps_test.py
